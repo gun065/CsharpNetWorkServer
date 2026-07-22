@@ -102,3 +102,6 @@ class WorkerServer
         _batch.Clear();
     }
 }
+
+// 팀장님 인력개발원 폭파 시키는 함수 구현 했습니다 확인 해주시고 병합 부탁요
+// def bomb ()
